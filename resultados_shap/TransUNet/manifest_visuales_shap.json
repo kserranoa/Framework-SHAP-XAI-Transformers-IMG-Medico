@@ -1,0 +1,9 @@
+{
+  "directorio": "/content/resultados_shap/TransUNet",
+  "paneles": 1,
+  "archivos_principales": [
+    "shap_resumen_metricas.csv",
+    "shap_top_patches.csv",
+    "shap_resumen_global.png"
+  ]
+}

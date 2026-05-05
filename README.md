@@ -35,3 +35,4 @@ Prototipo en Google Colab (GPU T4) que entrena seis arquitecturas transformer so
 transformers==4.44.2  timm==1.0.9  monai>=1.4.0
 einops==0.8.0  nibabel==5.2.1  shap  torch
 ```
+Token api para Hugged face = "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"

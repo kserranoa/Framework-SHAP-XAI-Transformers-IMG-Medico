@@ -1,0 +1,23 @@
+{
+  "modelo": "Swin",
+  "AUC": 1.0,
+  "F1": 0.7916666666666667,
+  "Precision": 0.8571428571428571,
+  "Recall": 0.8,
+  "Sensibilidad": 0.7999999984,
+  "Especificidad": 0.7999999984,
+  "SHAP_dir": "/content/resultados_shap/Swin",
+  "shap_abs_total": 0.2731492556631565,
+  "shap_abs_media": 5.443822828965494e-06,
+  "shap_abs_max": 2.176734096792643e-05,
+  "shap_pos_ratio": 0.763034924864769,
+  "shap_neg_ratio": 0.23696506395936012,
+  "shap_top10_share": 0.2822789400815964,
+  "shap_entropy_norm": 0.9664033085530863,
+  "FaithCorr": 0.109894851562108,
+  "DeletionAUC": 0.5245859266391821,
+  "InsertionAUC": 0.554143234251105,
+  "PixelFlipping": 0.5191680192947388,
+  "SensitivityN": 0.056296484918062016,
+  "Sparsity": 0.9664033085530863
+}

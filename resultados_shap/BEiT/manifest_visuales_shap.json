@@ -1,0 +1,9 @@
+{
+  "directorio": "/content/resultados_shap/BEiT",
+  "paneles": 4,
+  "archivos_principales": [
+    "shap_resumen_metricas.csv",
+    "shap_top_patches.csv",
+    "shap_resumen_global.png"
+  ]
+}

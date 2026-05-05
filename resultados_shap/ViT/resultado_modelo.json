@@ -1,0 +1,23 @@
+{
+  "modelo": "ViT",
+  "AUC": 1.0,
+  "F1": 0.898989898989899,
+  "Precision": 0.9166666666666667,
+  "Recall": 0.9,
+  "Sensibilidad": 0.8999999982,
+  "Especificidad": 0.8999999982,
+  "SHAP_dir": "/content/resultados_shap/ViT",
+  "shap_abs_total": 0.398921936750412,
+  "shap_abs_media": 7.950452982186107e-06,
+  "shap_abs_max": 3.5660644698509714e-05,
+  "shap_pos_ratio": 0.7502673864364624,
+  "shap_neg_ratio": 0.24973257072269917,
+  "shap_top10_share": 0.28347570821642876,
+  "shap_entropy_norm": 0.9683652578882984,
+  "FaithCorr": 0.16464355684725582,
+  "DeletionAUC": 0.4921159361850242,
+  "InsertionAUC": 0.496075768403861,
+  "PixelFlipping": 0.4877425506711006,
+  "SensitivityN": -0.01440751436545596,
+  "Sparsity": 0.9683652578882984
+}

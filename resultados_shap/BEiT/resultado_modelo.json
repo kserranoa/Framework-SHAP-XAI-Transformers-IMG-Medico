@@ -1,0 +1,23 @@
+{
+  "modelo": "BEiT",
+  "AUC": NaN,
+  "F1": 1.0,
+  "Precision": 1.0,
+  "Recall": 1.0,
+  "Sensibilidad": 0.49999999900000003,
+  "Especificidad": 0.49999999900000003,
+  "SHAP_dir": "/content/resultados_shap/BEiT",
+  "shap_abs_total": 0.34266548231244087,
+  "shap_abs_media": 6.829270716934843e-06,
+  "shap_abs_max": 7.98671253505745e-05,
+  "shap_pos_ratio": 0.9300544261932373,
+  "shap_neg_ratio": 0.06994556356221437,
+  "shap_top10_share": 0.3344760686159134,
+  "shap_entropy_norm": 0.9625563767156181,
+  "FaithCorr": 0.05748959887055666,
+  "DeletionAUC": 0.8166315005141862,
+  "InsertionAUC": 0.9222254190517931,
+  "PixelFlipping": 0.7969459891319275,
+  "SensitivityN": -0.012992790363495488,
+  "Sparsity": 0.9625563767156181
+}

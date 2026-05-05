@@ -1,0 +1,15 @@
+{
+  "modelo": "TransUNet",
+  "Dice": 0.008430093457342922,
+  "IoU": 0.004375465948845766,
+  "HD95": 148.8430910194922,
+  "SHAP_dir": "/content/resultados_shap/TransUNet",
+  "SHAP_clase_segmentacion": 6,
+  "shap_abs_total": 0.0034738031681627035,
+  "shap_abs_media": 6.923236384182019e-08,
+  "shap_abs_max": 1.1336714322851549e-07,
+  "shap_pos_ratio": 1.0,
+  "shap_neg_ratio": 0.0,
+  "shap_top10_share": 0.15761171281337738,
+  "shap_entropy_norm": 0.9916055186606126
+}
